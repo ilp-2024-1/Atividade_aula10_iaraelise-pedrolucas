@@ -4,5 +4,5 @@ while num <= 100:
     print (num)
     num += 1
 
-print ("Programa finalizado!")
+print ("Fim do programa!")
 

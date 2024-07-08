@@ -7,4 +7,4 @@ print(valorSorteado)
 valor = int(input("Tente adivinhar o valor sorteado e digite um número entre 1 e 100! \n"))
 while valor != valorSorteado:
     valor = int(input("Valor incorreto! Tente novamente: "))
-print("Parabéns! Você acertou o número sorteado.")
+print("Parabéns! Você acertou o número sorteado. \nFim do programa!")
