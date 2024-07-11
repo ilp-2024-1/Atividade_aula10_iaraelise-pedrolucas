@@ -31,17 +31,6 @@ v_ini = int(input("Insira um valor positivo: "))
 v_fim = int(input("Insira outro valor positivo: "))
 
 for i in range (v_ini, v_fim+1):
-    # numero = i
-    # divisores = 0
-    # print (i, end=(","))
-
-    # for i in range (1, numero+1):
-    #     if (numero % i) == 0:
-    #         divisores += 1
-
-    #     if divisores == 2:
-    #         print (f"{numero}")
-    #         soma_primo += numero
     if (i != 1):
         if (i == 5):
             print (i, end=",")
